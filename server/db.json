@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jorge",
+      "job": "Desenvolvedor Front-End",
+      "birth": "27/07/1984",
+      "email": "jorginhodeveloper@gmail.com"
+    }
+  ],
+  "auth": {
+    "login": "admin@nave.rs",
+    "password": "123456"
+  }
+}
